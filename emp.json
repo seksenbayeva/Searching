@@ -1,0 +1,111 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Developer",
+      "department": "IT",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Designer",
+      "department": "Creative",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "email": "alex@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "position": "Financial Analyst",
+      "department": "Finance",
+      "email": "emily@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Mike Davis",
+      "position": "Sales Manager",
+      "department": "Sales",
+      "email": "mike@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "email": "sarah@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Adam Clark",
+      "position": "Operations Manager",
+      "department": "Operations",
+      "email": "adam@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Linda Garcia",
+      "position": "Customer Support",
+      "department": "Support",
+      "email": "linda@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Robert Martinez",
+      "position": "Product Manager",
+      "department": "Product",
+      "email": "robert@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Julia Thompson",
+      "position": "Research Analyst",
+      "department": "Research",
+      "email": "julia@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Lee",
+      "position": "Quality Assurance",
+      "department": "Quality",
+      "email": "daniel@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Olivia Rodriguez",
+      "position": "Public Relations",
+      "department": "PR",
+      "email": "olivia@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Ethan Wilson",
+      "position": "Logistics Coordinator",
+      "department": "Logistics",
+      "email": "ethan@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Ava Hernandez",
+      "position": "Event Coordinator",
+      "department": "Events",
+      "email": "ava@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Noah Taylor",
+      "position": "IT Support",
+      "department": "IT",
+      "email": "noah@example.com"
+    }
+  ]
+}
+
+  
